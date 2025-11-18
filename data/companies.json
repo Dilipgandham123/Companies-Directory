@@ -1,0 +1,324 @@
+{
+  "companies": [
+    {
+      "id": 1,
+      "name": "TechNest IT Solutions",
+      "industry": "Technology",
+      "location": "Hyderabad, Telangana",
+      "employees": 320,
+      "founded": 2016
+    },
+    {
+      "id": 2,
+      "name": "Amaravati Agro Farms",
+      "industry": "Agriculture",
+      "location": "Guntur, Andhra Pradesh",
+      "employees": 120,
+      "founded": 2012
+    },
+    {
+      "id": 3,
+      "name": "Vizag Marine Exports",
+      "industry": "Exports",
+      "location": "Visakhapatnam, Andhra Pradesh",
+      "employees": 500,
+      "founded": 2005
+    },
+    {
+      "id": 4,
+      "name": "CloudBridge Systems",
+      "industry": "Technology",
+      "location": "Hyderabad, Telangana",
+      "employees": 280,
+      "founded": 2018
+    },
+    {
+      "id": 5,
+      "name": "Sree Digital Marketing",
+      "industry": "Marketing",
+      "location": "Vijayawada, Andhra Pradesh",
+      "employees": 60,
+      "founded": 2020
+    },
+    {
+      "id": 6,
+      "name": "Metro Infra Developers",
+      "industry": "Construction",
+      "location": "Hyderabad, Telangana",
+      "employees": 450,
+      "founded": 2010
+    },
+    {
+      "id": 7,
+      "name": "Krishna Textiles",
+      "industry": "Manufacturing",
+      "location": "Nellore, Andhra Pradesh",
+      "employees": 220,
+      "founded": 2009
+    },
+    {
+      "id": 8,
+      "name": "NextGen Pharma",
+      "industry": "Healthcare",
+      "location": "Hyderabad, Telangana",
+      "employees": 390,
+      "founded": 2014
+    },
+    {
+      "id": 9,
+      "name": "FinTrust Banking Services",
+      "industry": "Finance",
+      "location": "Hyderabad, Telangana",
+      "employees": 300,
+      "founded": 2013
+    },
+    {
+      "id": 10,
+      "name": "SmartRide Mobility",
+      "industry": "Transportation",
+      "location": "Vijayawada, Andhra Pradesh",
+      "employees": 150,
+      "founded": 2017
+    },
+    {
+      "id": 11,
+      "name": "RythuMart Foods",
+      "industry": "Food & Beverage",
+      "location": "Warangal, Telangana",
+      "employees": 180,
+      "founded": 2019
+    },
+    {
+      "id": 12,
+      "name": "GreenTech Renewables",
+      "industry": "Energy",
+      "location": "Tirupati, Andhra Pradesh",
+      "employees": 210,
+      "founded": 2016
+    },
+    {
+      "id": 13,
+      "name": "EduPro Learning Hub",
+      "industry": "Education",
+      "location": "Hyderabad, Telangana",
+      "employees": 95,
+      "founded": 2021
+    },
+    {
+      "id": 14,
+      "name": "HealthFirst Diagnostics",
+      "industry": "Healthcare",
+      "location": "Vijayawada, Andhra Pradesh",
+      "employees": 130,
+      "founded": 2015
+    },
+    {
+      "id": 15,
+      "name": "ChaiBrew Beverages",
+      "industry": "Food & Beverage",
+      "location": "Hyderabad, Telangana",
+      "employees": 75,
+      "founded": 2020
+    },
+    {
+      "id": 16,
+      "name": "SecureNet Cyber Solutions",
+      "industry": "Technology",
+      "location": "Hyderabad, Telangana",
+      "employees": 260,
+      "founded": 2017
+    },
+    {
+      "id": 17,
+      "name": "TruLogix Analytics",
+      "industry": "Data Analytics",
+      "location": "Visakhapatnam, Andhra Pradesh",
+      "employees": 140,
+      "founded": 2022
+    },
+    {
+      "id": 18,
+      "name": "AquaPure Industries",
+      "industry": "Manufacturing",
+      "location": "Srikakulam, Andhra Pradesh",
+      "employees": 110,
+      "founded": 2011
+    },
+    {
+      "id": 19,
+      "name": "FarmLink Distributors",
+      "industry": "Supply Chain",
+      "location": "Khammam, Telangana",
+      "employees": 200,
+      "founded": 2013
+    },
+    {
+      "id": 20,
+      "name": "Kakatiya Logistics",
+      "industry": "Transportation",
+      "location": "Warangal, Telangana",
+      "employees": 330,
+      "founded": 2008
+    },
+    {
+      "id": 21,
+      "name": "Apollo Steel Works",
+      "industry": "Manufacturing",
+      "location": "Kurnool, Andhra Pradesh",
+      "employees": 300,
+      "founded": 2007
+    },
+    {
+      "id": 22,
+      "name": "Sunrise Energy Power",
+      "industry": "Energy",
+      "location": "Anantapur, Andhra Pradesh",
+      "employees": 230,
+      "founded": 2016
+    },
+    {
+      "id": 23,
+      "name": "OceanLink Shipping",
+      "industry": "Logistics",
+      "location": "Visakhapatnam, Andhra Pradesh",
+      "employees": 410,
+      "founded": 2012
+    },
+    {
+      "id": 24,
+      "name": "TelTech Software",
+      "industry": "Technology",
+      "location": "Hyderabad, Telangana",
+      "employees": 500,
+      "founded": 2010
+    },
+    {
+      "id": 25,
+      "name": "GreenLeaf Organics",
+      "industry": "Agriculture",
+      "location": "Guntur, Andhra Pradesh",
+      "employees": 90,
+      "founded": 2018
+    },
+    {
+      "id": 26,
+      "name": "BrightFuture Schools",
+      "industry": "Education",
+      "location": "Nizamabad, Telangana",
+      "employees": 110,
+      "founded": 2019
+    },
+    {
+      "id": 27,
+      "name": "UrbanBuild Contractors",
+      "industry": "Construction",
+      "location": "Hyderabad, Telangana",
+      "employees": 420,
+      "founded": 2015
+    },
+    {
+      "id": 28,
+      "name": "Sapphire Jewels",
+      "industry": "Retail",
+      "location": "Vijayawada, Andhra Pradesh",
+      "employees": 150,
+      "founded": 2013
+    },
+    {
+      "id": 29,
+      "name": "AeroWings Drones",
+      "industry": "Technology",
+      "location": "Hyderabad, Telangana",
+      "employees": 80,
+      "founded": 2021
+    },
+    {
+      "id": 30,
+      "name": "FreshBite Foods",
+      "industry": "Food & Beverage",
+      "location": "Rajahmundry, Andhra Pradesh",
+      "employees": 200,
+      "founded": 2014
+    },
+    {
+      "id": 31,
+      "name": "Nova MedTech",
+      "industry": "Healthcare",
+      "location": "Hyderabad, Telangana",
+      "employees": 350,
+      "founded": 2012
+    },
+    {
+      "id": 32,
+      "name": "ByteForge Labs",
+      "industry": "Technology",
+      "location": "Visakhapatnam, Andhra Pradesh",
+      "employees": 100,
+      "founded": 2020
+    },
+    {
+      "id": 33,
+      "name": "DigiServe IT Solutions",
+      "industry": "Technology",
+      "location": "Hyderabad, Telangana",
+      "employees": 260,
+      "founded": 2017
+    },
+    {
+      "id": 34,
+      "name": "CarePlus Hospitals",
+      "industry": "Healthcare",
+      "location": "Guntur, Andhra Pradesh",
+      "employees": 430,
+      "founded": 2011
+    },
+    {
+      "id": 35,
+      "name": "AgriBoost Supplies",
+      "industry": "Agriculture",
+      "location": "Nellore, Andhra Pradesh",
+      "employees": 140,
+      "founded": 2016
+    },
+    {
+      "id": 36,
+      "name": "CloudWave Networks",
+      "industry": "Technology",
+      "location": "Hyderabad, Telangana",
+      "employees": 300,
+      "founded": 2019
+    },
+    {
+      "id": 37,
+      "name": "RoyalWheels Motors",
+      "industry": "Automotive",
+      "location": "Vijayawada, Andhra Pradesh",
+      "employees": 250,
+      "founded": 2014
+    },
+    {
+      "id": 38,
+      "name": "TriNet Systems",
+      "industry": "IT Services",
+      "location": "Hyderabad, Telangana",
+      "employees": 150,
+      "founded": 2022
+    },
+    {
+      "id": 39,
+      "name": "HarvestFresh Foods",
+      "industry": "Food & Beverage",
+      "location": "Tirupati, Andhra Pradesh",
+      "employees": 155,
+      "founded": 2018
+    },
+    {
+      "id": 40,
+      "name": "UrbanHive Interiors",
+      "industry": "Interior Design",
+      "location": "Hyderabad, Telangana",
+      "employees": 90,
+      "founded": 2020
+    }
+  ]
+}
